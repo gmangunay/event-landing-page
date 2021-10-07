@@ -1,3 +1,4 @@
+
 .speakerCardWrapper{
     padding: 100px; 
 }
@@ -19,9 +20,18 @@
     /* height: calc(100vh - 40px); */
     height: 35vh;
 
-    background-color: black;
+    background-color: gray;
 }
 
 .nav-link {
 color: black;
 }
+
+.ticketSection{
+    padding: 50px;
+}
+/* give p a sep class and do margin top/botton*/
+.venue{
+    padding-left: 100px;
+}
+/* give map an id and size */
