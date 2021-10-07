@@ -34,4 +34,12 @@ color: black;
 .venue{
     padding-left: 100px;
 }
-/* give map an id and size */
+.img-thumbnail{
+  
+    margin-top: 60px;
+}
+.footer{
+    position: absolute;
+    width: 100%;
+    height: 2.5rem;            /* Footer height */
+}
