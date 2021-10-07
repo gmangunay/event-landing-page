@@ -1,0 +1,27 @@
+.speakerCardWrapper{
+    padding: 100px; 
+}
+
+.speakerCard{
+    padding: 60px;
+}
+
+.speakerCard > *{
+    margin-bottom: 30px;
+}
+
+.img-thumbnail{
+    border: none;
+    border-radius: 16px;
+}
+.jumbotron{
+    /* THIS IS FULL SCREEN HEIGHT */
+    /* height: calc(100vh - 40px); */
+    height: 35vh;
+
+    background-color: black;
+}
+
+.nav-link {
+color: black;
+}
